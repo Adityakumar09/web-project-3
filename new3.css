@@ -1,0 +1,93 @@
+.container{
+    height: 100%;
+    width: 100%;
+    min-height: 715px;
+    background-color: rgb(150, 242, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cards{
+    height: 500px;
+    width: 350px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.item1 img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 170px;
+    width: 350px;
+}
+.item2 {
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+}
+.item3{
+    /* font-size: 0.8rem; */
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: -20px;
+    text-align: center;
+}
+.item4{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(161, 237, 211);
+    margin-left: 25px;
+    border-radius: 10px;
+    display: flex;
+    justify-content:space-around;
+    
+
+}
+#part1{
+    height: 50px;
+    width: 70%;
+    /* margin-top: 10px; */
+    display: flex;
+    justify-content:;
+    align-items: center;
+
+}
+#sec{
+    font-size: 0.8rem;
+}
+#part2{
+    height: 40px;
+    width: 30%;
+    margin-top: 12px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+#first img{
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.item5 button{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(34, 5, 119);
+    margin-left: 25px;
+    border-radius: 10px;   
+    margin-top: 15px;
+    color: white;
+    box-shadow : 5px 5px 5px rgb(0, 0, 0);
+}
+.item6 a{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
